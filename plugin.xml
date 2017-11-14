@@ -42,7 +42,7 @@
     <source-file src="src/android/FlurryAgent.jar" target-dir="libs" />
 		<source-file src="src/android/Flurry.java"
 					target-dir="src/com/phonegap/plugins/flurry/" />
-        <framework src="com.google.android.gms:play-services-plus:+" />
+        <framework src="com.google.android.gms:play-services-plus:11.0.1" />
 		<config-file target="AndroidManifest.xml" parent="/*/application">
 			<meta-data android:name="com.google.android.gms.version"
 			  android:value="@integer/google_play_services_version"/>
