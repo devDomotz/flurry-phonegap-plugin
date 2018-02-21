@@ -1,0 +1,8 @@
+{
+  "name": "com.phonegap.plugins.Flurry",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devDomotz/flurry-phonegap-plugin"
+  },
+  "version": "3.3.6"
+}
